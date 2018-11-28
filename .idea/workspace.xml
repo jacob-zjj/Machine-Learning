@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/第三章决策树/trees.py" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab7ad450-f188-4995-b2cb-ee0c55b6857b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch02/EXTRAS/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch02/EXTRAS/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch02/EXTRAS/createDist.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch02/EXTRAS/createDist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch02/EXTRAS/createDist2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch02/EXTRAS/createDist2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch02/EXTRAS/createFirstPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch02/EXTRAS/createFirstPlot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch02/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch02/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch02/datingTestSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch02/datingTestSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch02/datingTestSet2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch02/datingTestSet2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch02/kNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch02/kNN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch03/classifierStorage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch03/classifierStorage.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch03/lenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch03/lenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch03/treePlotter.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch03/treePlotter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch03/trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch03/trees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch04/EXTRAS/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch04/EXTRAS/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch04/EXTRAS/create2Normal.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch04/EXTRAS/create2Normal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch04/EXTRAS/monoDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch04/EXTRAS/monoDemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch04/bayes.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch04/bayes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/plot2D.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/plot2D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/plotGD.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/plotGD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/plotSDerror.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/plotSDerror.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/sigmoidPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/EXTRAS/sigmoidPlot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/horseColicTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/horseColicTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/horseColicTraining.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/horseColicTraining.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/logRegres.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/logRegres.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch05/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch05/testSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch06/EXTRAS/notLinSeperable.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch06/EXTRAS/notLinSeperable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch06/EXTRAS/plotRBF.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch06/EXTRAS/plotRBF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch06/EXTRAS/plotSupportVectors.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch06/EXTRAS/plotSupportVectors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch06/svmMLiA.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch06/svmMLiA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch06/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch06/testSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch06/testSetRBF.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch06/testSetRBF.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch06/testSetRBF2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch06/testSetRBF2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch07/EXTRAS/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch07/EXTRAS/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch07/EXTRAS/simpleDataPlot.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch07/EXTRAS/simpleDataPlot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch07/adaboost.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch07/adaboost.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch07/horseColicTest2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch07/horseColicTest2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch07/horseColicTraining2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch07/horseColicTraining2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/abalone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/abalone.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/ex0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/ex0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/ex1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/ex1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/regression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10030.html" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10030.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10179.html" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10179.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10181.html" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10181.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10189.html" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10189.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10196.html" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego10196.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego8288.html" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch08/setHtml/lego8288.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/bikeSpeedVsIq_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/bikeSpeedVsIq_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/bikeSpeedVsIq_train.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/bikeSpeedVsIq_train.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/ex0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/ex0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/ex00.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/ex00.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/ex2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/ex2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/ex2test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/ex2test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/exp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/exp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/exp2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/exp2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/expTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/expTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/regTrees.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/regTrees.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/sine.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/sine.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch09/treeExplore.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch09/treeExplore.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch10/kMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch10/kMeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch10/places.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch10/places.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch10/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch10/testSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch10/testSet2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch10/testSet2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch11/apriori.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch11/apriori.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch11/bills20DataSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch11/bills20DataSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch11/lawAssnRules.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch11/lawAssnRules.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch11/meaning20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch11/meaning20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch11/recent100bills.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch11/recent100bills.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch11/recent20bills.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch11/recent20bills.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch12/fpGrowth.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch12/fpGrowth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch13/extras/createFig1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch13/extras/createFig1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch13/extras/createFig2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch13/extras/createFig2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch13/extras/createFig3.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch13/extras/createFig3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch13/extras/createFig4.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch13/extras/createFig4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch13/pca.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch13/pca.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch13/secom.data" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch13/secom.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch13/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch13/testSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch13/testSet3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch13/testSet3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch14/0_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch14/0_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch14/svdRec.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch14/svdRec.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/kickStart.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/kickStart.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/mrMean.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/mrMean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/mrMeanMapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/mrMeanMapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/mrMeanReducer.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/mrMeanReducer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/mrSVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/mrSVM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/mrSVMkickStart.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/mrSVMkickStart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/myout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/myout.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/pegasos.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/pegasos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/proximalSVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/proximalSVM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/svmDat2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/svmDat2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/svmDat26" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/svmDat26" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/svmDat27" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/svmDat27" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/svmData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/svmData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/testSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/testSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/Ch15/testSet200.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/Ch15/testSet200.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLAdata/README.rst" beforeDir="false" afterPath="$PROJECT_DIR$/MLAdata/README.rst" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="adaboost.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能/adaboost.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MLAdata" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/第二章k-近邻算法/test.py" />
+        <option value="$PROJECT_DIR$/第二章k-近邻算法/test(约会实例).py" />
+        <option value="$PROJECT_DIR$/第二章k-近邻算法/test(手写识别系统).py" />
+        <option value="$PROJECT_DIR$/第二章k-近邻算法/KNN.py" />
+        <option value="$PROJECT_DIR$/第二章k-近邻算法/treePlotter..py" />
+        <option value="$PROJECT_DIR$/第三章决策树/testTree.py" />
+        <option value="$PROJECT_DIR$/第三章决策树/test(使用决策树预测隐形眼镜类型).py" />
+        <option value="$PROJECT_DIR$/第三章决策树/trees.py" />
+        <option value="$PROJECT_DIR$/第二章k-近邻算法/treePlotter.py" />
+        <option value="$PROJECT_DIR$/第四章基于概率论的分类方法，朴素贝叶斯/test(测试贝叶斯).py" />
+        <option value="$PROJECT_DIR$/第四章基于概率论的分类方法，朴素贝叶斯/bayes.py" />
+        <option value="$PROJECT_DIR$/第五章Logistic回归/logRegres.py" />
+        <option value="$PROJECT_DIR$/第五章Logistic回归/testLogistic.py" />
+        <option value="$PROJECT_DIR$/第六章支持向量机/testSvm.py" />
+        <option value="$PROJECT_DIR$/第六章支持向量机/svmMLiA.py" />
+        <option value="$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能/test.py" />
+        <option value="$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能/adaboost.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="26" />
+    <option name="y" value="26" />
+    <option name="width" value="1582" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="机器学习实战10月25日" type="b2602c69:ProjectViewProjectNode" />
+              <item name="机器学习实战10月25日" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="机器学习实战10月25日" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/Deeplearning/机器学习实战10月25日/第二章k-近邻算法/KNN.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="adaboost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习实战10月25日" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能/adaboost.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="logRegres" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习实战10月25日" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第五章Logistic回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第五章Logistic回归/logRegres.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习实战10月25日" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="testLogistic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习实战10月25日" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第五章Logistic回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第五章Logistic回归/testLogistic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="testSvm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习实战10月25日" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第六章支持向量机" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第六章支持向量机/testSvm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test(使用决策树预测隐形眼镜类型)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习实战10月25日" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第三章决策树" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第三章决策树/test(使用决策树预测隐形眼镜类型).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test(手写识别系统)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习实战10月25日" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章k-近邻算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章k-近邻算法/test(手写识别系统).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.logRegres" />
+      <item itemvalue="Python.testLogistic" />
+      <item itemvalue="Python.testSvm" />
+      <item itemvalue="Python.adaboost" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.adaboost" />
+        <item itemvalue="Python.testSvm" />
+        <item itemvalue="Python.testLogistic" />
+        <item itemvalue="Python.logRegres" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab7ad450-f188-4995-b2cb-ee0c55b6857b" name="Default" comment="" />
+      <created>1540438552440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540438552440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11354167" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2957447" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/第三章决策树/test(使用决策树预测隐形眼镜类型).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/KNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2464">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/testTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/lenses.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/KNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/testTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="928">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1888">
+          <caret line="59" column="22" lean-forward="true" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/testTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/KNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5088">
+          <caret line="159" column="71" lean-forward="true" selection-start-line="159" selection-start-column="71" selection-end-line="159" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/test(约会实例).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1472">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/test(手写识别系统).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAdata/Ch02/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAdata/Ch02/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/KNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAdata/Ch02/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4256">
+          <caret line="133" column="28" lean-forward="true" selection-start-line="133" selection-start-column="28" selection-end-line="133" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAdata/Ch02/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="41" lean-forward="true" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/test(约会实例).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="40" column="20" lean-forward="true" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章机器学习基础/NumPy函数基础/Numpy函数基础.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章机器学习基础/NumPy函数基础/numpy.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAdata/Ch02/datingTestSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/test(约会实例).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/lenses.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/testTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="54" column="13" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/treePlotter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/test(使用决策树预测隐形眼镜类型).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章基于概率论的分类方法，朴素贝叶斯/test(测试贝叶斯).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第四章基于概率论的分类方法，朴素贝叶斯/bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2816">
+          <caret line="88" column="30" lean-forward="true" selection-start-line="88" selection-start-column="30" selection-end-line="88" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章Logistic回归/logRegres" />
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/KNN.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第三章决策树/trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="106" column="25" lean-forward="true" selection-start-line="106" selection-start-column="25" selection-end-line="106" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章Logistic回归/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章Logistic回归/testLogistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章Logistic回归/horseColicTraining.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章Logistic回归/horseColicTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第五章Logistic回归/logRegres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六章支持向量机/支持向量机.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六章支持向量机/testSvm.py" />
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/KNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="144" selection-start-line="144" selection-end-line="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章k-近邻算法/test(手写识别系统).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAdata/Ch02/datingTestSet2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAdata/Ch02/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MLAdata/Ch02/trainingDigits/0_2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六章支持向量机/svmMLiA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1327">
+          <caret line="330" lean-forward="true" selection-start-line="330" selection-end-line="330" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六章支持向量机/testSet.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六章支持向量机/testSetRBF.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第七章利用AdaBoost元算法提高分类性能/adaboost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="96" column="25" selection-start-line="96" selection-start-column="25" selection-end-line="96" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

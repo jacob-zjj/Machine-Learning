@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/第二章k-近邻算法" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第三章决策树" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第四章基于概率论的分类方法，朴素贝叶斯" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第五章Logistic回归" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第六章支持向量机" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第七章利用AdaBoost元算法提高分类性能" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="py.test" />
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
